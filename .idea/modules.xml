@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RogueLite/.idea/RogueLite.iml" filepath="$PROJECT_DIR$/../RogueLite/.idea/RogueLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tuto/.idea/Tuto.iml" filepath="$PROJECT_DIR$/../Tuto/.idea/Tuto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../plateformer/.idea/plateformer.iml" filepath="$PROJECT_DIR$/../plateformer/.idea/plateformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../snake/.idea/snake.iml" filepath="$PROJECT_DIR$/../snake/.idea/snake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/useBDD.iml" filepath="$PROJECT_DIR$/.idea/useBDD.iml" />
+    </modules>
+  </component>
+</project>
