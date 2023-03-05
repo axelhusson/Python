@@ -5,12 +5,22 @@
 from pathlib import Path
 
 def print_hi(name):
+    """
+    The print_hi function prints the message 'Hi, NAME' in
+    the terminal where NAME is passed into the function as an argument.
+
+
+    :param name: Pass the name of the person to be greeted
+    :return: The string 'hi, name'
+    :doc-author: Trelent
+    """
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+
     print_hi('PyCharm')
 
 dirs = {".png" : "Images",
